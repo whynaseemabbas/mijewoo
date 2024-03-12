@@ -3,7 +3,7 @@ import React from "react";
 const Banner = () => {
   return (
     <div className="bg-[#F7F6F0] pt-[20px] pb-[20px]">
-      <div className="flex items-center justify-between sm:flex flex-col items-center">
+      <div className="flex items-center justify-between sm:flex flex-col items-center space-y-10">
         <div className="flex">
           <div className="">
             <img src="/images/banner4.png" style={{ width: "100%" }} />
